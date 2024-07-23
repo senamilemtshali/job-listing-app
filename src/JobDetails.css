@@ -1,0 +1,26 @@
+
+.job-detail {
+    padding: 20px;
+  }
+  
+  .job-detail h2 {
+    margin-bottom: 10px;
+  }
+  
+  .job-detail p {
+    margin-bottom: 20px;
+  }
+  
+  .job-detail ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .job-detail li {
+    background: #f9f9f9;
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+  }
+  
